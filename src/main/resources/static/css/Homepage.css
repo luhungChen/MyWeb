@@ -1,0 +1,26 @@
+@CHARSET "BIG5";
+
+    .Zi_box_1 {
+      Border: 2px Solid #69b4ff;
+      Margin: 2em 0;
+      Padding: 20px;
+      Position: Relative;
+      Box-Shadow: 0 0 5px 2px #69b4ff Inset;
+      height:50%;
+    }
+    .Zi_box_1::Before {
+      Background-Color: #Fff;
+      Color: #69b4ff;
+      Content: "網站公告";
+      Font-Weight: Bold;
+      Left: 1em;
+      Padding: 0 .5em;
+      Position: Absolute;
+      Top: -1em;
+   }
+   .dropdownmenuoption
+   {
+      border-width:3px;
+      border-style:outset;
+      padding:5px;
+   }

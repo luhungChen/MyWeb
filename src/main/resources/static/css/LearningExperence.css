@@ -1,0 +1,18 @@
+@CHARSET "BIG5";
+
+
+    .form-design
+    {
+      font-family:cursive;
+      color: rgb(255, 255, 255);
+      font-size: 50px;
+      text-shadow: rgb(150, 150, 150) 1px 3px 0px, rgb(171, 168, 168) 1px 13px 5px;
+    }
+    .dropdownmenuoption
+   {
+      border-width:3px;
+      border-style:outset;
+      padding:5px;
+   }
+    
+    
